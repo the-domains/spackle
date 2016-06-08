@@ -1,0 +1,14 @@
+layout_spectrum: 0.17493333108723164
+typography_spectrum: 0.1653428676072508
+color:
+  brandStrength: 0.9296321640722454
+  lightness: 0.2106415773741901
+  saturation: 0.9565698127262294
+  rhythmicContrast: 0.8027944639325142
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Spackle
